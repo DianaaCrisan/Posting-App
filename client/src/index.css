@@ -1,0 +1,42 @@
+body {
+    background-color: #30323D;
+}
+
+.appTitle {
+    color: #B84A62;
+}
+
+.singlePostTitle {
+    color: #F5853F;
+}
+
+.postTitle {
+    color: #F5853F;
+}
+
+.postTitle:hover {
+    text-decoration: underline;
+}
+
+.navButton {
+    color: #8499B1;
+}
+
+.navButton:hover {
+    text-decoration: underline;
+    color: white;
+    cursor: pointer;
+}
+
+.textHello {
+    color: white;
+}
+
+.textPost {
+    color: white;
+}
+
+.inputTransparent{
+    background-color: rgba(0,0,0, 0.2); 
+    color: white;
+ }
