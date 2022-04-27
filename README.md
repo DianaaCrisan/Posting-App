@@ -3,12 +3,12 @@ MERN Stack, CRUD
 
 **To start the application**:
 - in the root directory of "server"
-  - Sub ```npm install```
-  - Sub ```npm start```
+  - ```npm install```
+  - ```npm start```
 
 - in the root directory of "client"
-  - Sub ```npm install```
-  - Sub ```npm start```
+  - ```npm install```
+  - ```npm start```
 
 **To use the application**:
 - to see the posts
